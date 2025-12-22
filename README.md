@@ -50,8 +50,6 @@ I'm a **Full Stack Developer & Data Enthusiast**
 
 ### 🎮 Activity:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=budiono91&show_icons=true&theme=tokyonight" alt="Stats" />
-  <br/><br/>
   <img src="https://raw.githubusercontent.com/budiono91/budiono91/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 </div>
 
