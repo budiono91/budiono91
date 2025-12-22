@@ -1,11 +1,13 @@
-### 💫 About Me:
-#### Hi there, I'm Abdul! 👋
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding-gif" />
 </div>
 
-I'm a **Web Frontend Developer & Data Enthusiast**
+
+### 💫 About Me:
+#### Hi there, I'm Abdul! 👋
+
+I'm a **Full Stack Developer & Data Enthusiast**
 
 - 🔭 **I’m currently working on** comprehensive data analysis projects to derive meaningful insights.
 - 👯 **I’m looking to collaborate on** creative projects that bridge the gap between aesthetic Web Design and Data Science.
@@ -18,24 +20,46 @@ I'm a **Web Frontend Developer & Data Enthusiast**
 
 ### 🌐 Socials:
 <div align="left">
-  <a href="https://www.linkedin.com/in/AbdullahIrfanBudiono" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="45" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/abdullah-irfan-budiono" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" />
   </a>
   <a href="mailto:abdullahirfan1705@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="45" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo" />
   </a>
   <a href="https://instagram.com/abdul_syputra17" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="45" alt="instagram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo" />
   </a>
 </div>
 
 ---
 
 ### 🛠 Languages and Tools:
+
+#### 🌐 Frontend & Design
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,tailwind,react,laravel,flask,mysql,pandas,numpy,figma,git,github" height="42" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,figma,canva" height="42" />
+</div>
+
+#### ⚙️ Backend & Database
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py,java,nodejs,laravel,flask,mysql,postman" height="42" />
+</div>
+
+#### 📊 Data Science & Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,git,github" height="42" />
+</div>
+
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/budiono91/budiono91/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/budiono91/budiono91/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <p>Total Profile Views</p>
+  <img src="https://profile-counter.glitch.me/budiono91/count.svg" alt="Visitor Counter" />
+</div>
