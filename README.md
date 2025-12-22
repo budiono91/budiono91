@@ -1,11 +1,9 @@
+### 💫 About Me:
+#### Hi there, I'm Abdul! 👋
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding-gif" />
 </div>
-
-
-### 💫 About Me:
-#### Hi there, I'm Abdul! 👋
 
 I'm a **Full Stack Developer & Data Enthusiast**
 
@@ -23,9 +21,11 @@ I'm a **Full Stack Developer & Data Enthusiast**
   <a href="https://www.linkedin.com/in/abdullah-irfan-budiono" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:abdullahirfan1705@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/abdul_syputra17" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo" />
   </a>
@@ -50,16 +50,17 @@ I'm a **Full Stack Developer & Data Enthusiast**
   <img src="https://skillicons.dev/icons?i=pandas,numpy,git,github" height="42" />
 </div>
 
-
 ---
 
+### 🎮 Activity:
 <div align="center">
-  <img src="https://raw.githubusercontent.com/budiono91/budiono91/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=budiono91&show_icons=true&theme=tokyonight" alt="Stats" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/budiono91/budiono91/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 </div>
 
 ---
 
 <div align="center">
-  <p>Total Profile Views</p>
   <img src="https://profile-counter.glitch.me/budiono91/count.svg" alt="Visitor Counter" />
 </div>
