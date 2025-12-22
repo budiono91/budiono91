@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="100%" src="Gemini_Generated_Image_jps7e2jps7e2jps7.png" alt="Banner Full Stack Developer" />
+  <img width="100%" src="Gemini_Generated_Image_jps7e2jps7e2jps7.png " alt="Banner Full Stack Developer" />
 </div>
 
 
