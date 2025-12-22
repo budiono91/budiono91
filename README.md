@@ -5,7 +5,7 @@
 
 
 
----
+
 ### 💫 About Me:
 ---
 #### Hi there, I'm Abdul! 👋
@@ -20,7 +20,7 @@ I'm a **Full Stack Developer & Data Enthusiast**
 
 
 
----
+
 ### 🌐 Socials:
 ---
 <div align="left">
@@ -39,7 +39,7 @@ I'm a **Full Stack Developer & Data Enthusiast**
 
 
 
----
+
 ### 🛠 Languages and Tools:
 ---
 
@@ -55,7 +55,7 @@ I'm a **Full Stack Developer & Data Enthusiast**
 
 
 
----
+
 ### 🎮 Activity:
 ---
 <div align="center">
