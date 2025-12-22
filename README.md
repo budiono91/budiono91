@@ -19,13 +19,13 @@ I'm a **Web Frontend Developer & Data Enthusiast**
 ### 🌐 Socials:
 <div align="left">
   <a href="https://www.linkedin.com/in/AbdullahIrfanBudiono" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="45" alt="linkedin logo" />
   </a>
   <a href="mailto:abdullahirfan1705@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="45" alt="gmail logo" />
   </a>
   <a href="https://instagram.com/abdul_syputra17" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="45" alt="instagram logo" />
   </a>
 </div>
 
@@ -38,17 +38,4 @@ I'm a **Web Frontend Developer & Data Enthusiast**
 
 ---
 
-### 📊 GitHub Stats:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=budiono91&theme=blue_navy&show_icons=true&hide_border=false&count_private=true" alt="stats" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=budiono91&theme=blue_navy&layout=compact&hide_border=false" alt="top languages" />
-</p>
-
----
-
-<div align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/43801a28-38df-48fd-bb26-9abe240b8a8d" alt="footer-banner" />
-</div>
+<img src="https://raw.githubusercontent.com/budiono91/budiono91/output/snake.svg" alt="Snake animation" />
