@@ -3,9 +3,9 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding-gif" />
 </div>
 
-## 💫 About Me:
-### Hi there, I'm Abdul! 👋
 
+### 💫 About Me:
+#### Hi there, I'm Abdul! 👋
 I'm a **Full Stack Developer & Data Enthusiast**
 
 - 🔭 **I’m currently working on** comprehensive data analysis projects to derive meaningful insights.
@@ -48,6 +48,10 @@ I'm a **Full Stack Developer & Data Enthusiast**
 
 ---
 
+### 🎮 Activity:
 <div align="center">
-  <img src="https://profile-counter.glitch.me/budiono91/count.svg" alt="Visitor Counter" />
+  <img src="https://github-readme-stats.vercel.app/api?username=budiono91&show_icons=true&theme=tokyonight" alt="Stats" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/budiono91/budiono91/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 </div>
+
