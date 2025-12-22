@@ -5,8 +5,9 @@
 
 
 
-
+---
 ### 💫 About Me:
+---
 #### Hi there, I'm Abdul! 👋
 I'm a **Full Stack Developer & Data Enthusiast**
 
@@ -19,8 +20,9 @@ I'm a **Full Stack Developer & Data Enthusiast**
 
 
 
-
+---
 ### 🌐 Socials:
+---
 <div align="left">
   <a href="https://www.linkedin.com/in/abdullah-irfan-budiono" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" />
@@ -37,8 +39,9 @@ I'm a **Full Stack Developer & Data Enthusiast**
 
 
 
-
+---
 ### 🛠 Languages and Tools:
+---
 
 #### 🌐 Frontend & Design
 <div align="left">
@@ -52,8 +55,9 @@ I'm a **Full Stack Developer & Data Enthusiast**
 
 
 
-
+---
 ### 🎮 Activity:
+---
 <div align="center">
   <img src="https://raw.githubusercontent.com/budiono91/budiono91/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 </div>
