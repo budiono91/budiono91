@@ -1,9 +1,10 @@
-### 💫 About Me:
-#### Hi there, I'm Abdul! 👋
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding-gif" />
 </div>
+
+## 💫 About Me:
+### Hi there, I'm Abdul! 👋
 
 I'm a **Full Stack Developer & Data Enthusiast**
 
@@ -43,20 +44,6 @@ I'm a **Full Stack Developer & Data Enthusiast**
 #### ⚙️ Backend & Database
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py,java,nodejs,laravel,flask,mysql,postman" height="42" />
-</div>
-
-#### 📊 Data Science & Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,git,github" height="42" />
-</div>
-
----
-
-### 🎮 Activity:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=budiono91&show_icons=true&theme=tokyonight" alt="Stats" />
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/budiono91/budiono91/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 </div>
 
 ---
