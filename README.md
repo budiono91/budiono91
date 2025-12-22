@@ -1,6 +1,10 @@
 ### 💫 About Me:
 #### Hi there, I'm Abdul! 👋
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding-gif" />
+</div>
+
 I'm a **Web Frontend Developer & Data Enthusiast**
 
 - 🔭 **I’m currently working on** comprehensive data analysis projects to derive meaningful insights.
@@ -13,18 +17,38 @@ I'm a **Web Frontend Developer & Data Enthusiast**
 ---
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdul_syputra17) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AbdullahIrfanBudiono) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullahirfan1705@gmail.com) 
+<div align="left">
+  <a href="https://www.linkedin.com/in/AbdullahIrfanBudiono" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:abdullahirfan1705@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://instagram.com/abdul_syputra17" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo" />
+  </a>
+</div>
 
 ---
 
-### 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white)
+### 🛠 Languages and Tools:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,tailwind,react,laravel,flask,mysql,pandas,numpy,figma,git,github" height="42" />
+</div>
 
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=budiono91&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=budiono91&theme=blue_navy&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=budiono91&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=budiono91&theme=blue_navy&show_icons=true&hide_border=false&count_private=true" alt="stats" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=budiono91&theme=blue_navy&layout=compact&hide_border=false" alt="top languages" />
+</p>
+
+---
+
+<div align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/43801a28-38df-48fd-bb26-9abe240b8a8d" alt="footer-banner" />
+</div>
