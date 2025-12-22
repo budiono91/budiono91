@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding-gif" />
+  <img width="100%" src="Gemini_Generated_Image_jps7e2jps7e2jps7.png" alt="Banner Full Stack Developer" />
 </div>
 
 
