@@ -4,6 +4,8 @@
 </div>
 
 
+
+
 ### 💫 About Me:
 #### Hi there, I'm Abdul! 👋
 I'm a **Full Stack Developer & Data Enthusiast**
@@ -15,7 +17,8 @@ I'm a **Full Stack Developer & Data Enthusiast**
 - 💬 **Ask me about** Web Frontend Development; I am highly confident in building responsive and structured interfaces.
 - ⚡ **Fun fact** When I'm not coding, I keep myself sharp and disciplined through running and swimming.
 
----
+
+
 
 ### 🌐 Socials:
 <div align="left">
@@ -32,7 +35,8 @@ I'm a **Full Stack Developer & Data Enthusiast**
   </a>
 </div>
 
----
+
+
 
 ### 🛠 Languages and Tools:
 
@@ -46,7 +50,8 @@ I'm a **Full Stack Developer & Data Enthusiast**
   <img src="https://skillicons.dev/icons?i=py,java,nodejs,laravel,flask,mysql,postman" height="42" />
 </div>
 
----
+
+
 
 ### 🎮 Activity:
 <div align="center">
